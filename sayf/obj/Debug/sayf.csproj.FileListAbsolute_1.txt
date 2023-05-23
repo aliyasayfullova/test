@@ -1,0 +1,14 @@
+C:\Users\Студент.403-4\Desktop\sayf\bin\Debug\sayf.exe.config
+C:\Users\Студент.403-4\Desktop\sayf\bin\Debug\sayf.exe
+C:\Users\Студент.403-4\Desktop\sayf\bin\Debug\sayf.pdb
+C:\Users\Студент.403-4\Desktop\sayf\obj\Debug\sayf.csproj.AssemblyReference.cache
+C:\Users\Студент.403-4\Desktop\sayf\obj\Debug\sayf.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент.403-4\Desktop\sayf\obj\Debug\sayf.Form1.resources
+C:\Users\Студент.403-4\Desktop\sayf\obj\Debug\sayf.Properties.Resources.resources
+C:\Users\Студент.403-4\Desktop\sayf\obj\Debug\sayf.csproj.GenerateResource.cache
+C:\Users\Студент.403-4\Desktop\sayf\obj\Debug\sayf.csproj.CoreCompileInputs.cache
+C:\Users\Студент.403-4\Desktop\sayf\obj\Debug\sayf.exe
+C:\Users\Студент.403-4\Desktop\sayf\obj\Debug\sayf.pdb
+C:\Users\Студент.403-4\Desktop\sayf\obj\Debug\sayf.Form2.resources
+C:\Users\Студент.403-4\Desktop\sayf\obj\Debug\sayf.Form3.resources
+C:\Users\Студент.403-4\Desktop\sayf\obj\Debug\sayf.Form4.resources
